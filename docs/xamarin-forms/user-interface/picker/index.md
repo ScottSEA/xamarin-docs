@@ -17,7 +17,7 @@ _The Picker view is a control for selecting a text item from a list of data._
 The Xamarin.Forms [`Picker`](xref:Xamarin.Forms.Picker) displays a short list of items, from which the user can select an item. `Picker` defines the following properties:
 
 - [`CharacterSpacing`](xref:Xamarin.Forms.Picker.CharacterSpacing), of type `double`, is the spacing between characters of the item displayed by the `Picker`.
-- [`FontAttributes`](xref:Xamarin.Forms.Picker.FontAttributes) of type [`FontAttributes`](xref:Xamarin.Forms.FontAttributes), which defaults to [`FontAtributes.None`](xref:Xamarin.Forms.FontAttributes.None).
+- [`FontAttributes`](xref:Xamarin.Forms.Picker.FontAttributes) of type [`FontAttributes`](xref:Xamarin.Forms.FontAttributes), which defaults to [`FontAttributes.None`](xref:Xamarin.Forms.FontAttributes.None).
 - [`FontFamily`](xref:Xamarin.Forms.Picker.FontFamily) of type `string`, which defaults to `null`.
 - [`FontSize`](xref:Xamarin.Forms.Picker.FontSize) of type `double`, which defaults to -1.0.
 - `HorizontalTextAlignment`, of type [`TextAlignment`](xref:Xamarin.Forms.TextAlignment), is the horizontal alignment of the text displayed by the `Picker`.
